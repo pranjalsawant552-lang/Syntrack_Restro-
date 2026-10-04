@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 120 120" role="img"><title>Syntrack Restro</title>
+<rect width="120" height="120" rx="28" fill="#1E40AF"/>
+<path d="M22 80A38 38 0 0 1 98 80Z" fill="#FFF"/><circle cx="60" cy="38" r="5" fill="#FFF"/>
+<rect x="16" y="84" width="88" height="7" rx="3.5" fill="#FFF"/>
+<g transform="translate(47 64) skewX(-9) translate(-47 -64)"><path d="M27 74H32L36 64L40 74H47V50M47 64L59 58M47 64L62 74H69L74 62L80 74H93" fill="none" stroke="#F59E0B" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/></g>
+</svg>

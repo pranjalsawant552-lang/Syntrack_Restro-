@@ -1,0 +1,14 @@
+/* Prevent horizontal scroll on any screen */
+html,
+body {
+  overflow-x: hidden;
+  max-width: 100vw;
+  box-sizing: border-box;
+}
+
+#root {
+  overflow-x: hidden;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+

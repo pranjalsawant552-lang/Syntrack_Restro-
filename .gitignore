@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+
+# Ignore root documentation
+/*.md
+
+# Ignore root docker config
+/docker-compose.yml
